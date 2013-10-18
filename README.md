@@ -1,4 +1,4 @@
-CHRONUS
+ChordReduce
 =======
-Chord Related Operational Network for User Systems
+Experimental P2P Mapreduce system for Concurrent Computing
 
